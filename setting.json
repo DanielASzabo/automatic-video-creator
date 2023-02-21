@@ -1,0 +1,33 @@
+{
+  "Text": {
+    "TextsDir": "videofiles\\texts\\",
+    "TextName": "",
+    "BiggestTextNum": 0
+  },
+  "Audio": {
+    "AudioName": "asd",
+    "AudioNum": 0,
+    "AudioFormat": "mp3",
+    "AudioSaveDir": "videofiles\\audio\\"
+  },
+  "Images": {
+    "HowManyImage": 70,
+    "ImageExtention": ".png",
+    "VideoReadyImageDir": "videofiles\\images\\",
+    "UsedImageDir": "videofiles\\usedimages\\",
+    "AdsImageDir": "videofiles\\ads\\",
+    "HowManyUsedImage": 244,
+    "AdsImageNum": 11
+  },
+  "Video": {
+    "BigestVideoNum": 4,
+    "VideoName": "video",
+    "VideoFormat": ".mp4",
+    "VideoSaveDir": "video\\"
+  },
+  "Misc": {
+    "SiteURL": "https://www.reddit.com/r/memes/",
+    "CromePath": "C:\\Program Files (x86)\\chromedriver.exe",
+    "Temp": "videofiles\\temp\\"
+  }
+}
